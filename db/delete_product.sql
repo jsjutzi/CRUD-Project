@@ -1,0 +1,1 @@
+DELETE products WHERE product_id = $1;
